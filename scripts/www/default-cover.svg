@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b2440"/>
+      <stop offset="100%" stop-color="#0e4b47"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="32" fill="url(#bgGrad)"/>
+  <circle cx="256" cy="256" r="188" fill="none" stroke="#ffffff33" stroke-width="6"/>
+  <path d="M80 320 C140 260, 190 360, 256 300 C320 240, 370 350, 432 310" fill="none" stroke="#41d0c0" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  <path d="M264 120 V300 C244 312, 222 306, 214 286 C206 266, 222 248, 244 252 V148 L330 186 C346 194, 350 216, 338 232 C326 248, 304 252, 288 242 Z" fill="#ffc120"/>
+  <text x="256" y="440" text-anchor="middle" fill="#a0dcd6" font-size="32" font-family="sans-serif">声谷音乐</text>
+</svg>
